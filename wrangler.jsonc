@@ -22,6 +22,10 @@
     {
       "pattern": "chenningg.com",
       "custom_domain": true
+    },
+    {
+      "pattern": "www.chenningg.com",
+      "custom_domain": true
     }
   ]
 	/**
