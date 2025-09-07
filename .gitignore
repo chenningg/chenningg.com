@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# User defined ignores
+.content-collections
+
 # dependencies
 /node_modules
 /.pnp
